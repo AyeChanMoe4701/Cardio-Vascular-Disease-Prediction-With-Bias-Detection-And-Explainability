@@ -1,6 +1,6 @@
 #  Fairness in Cardiovascular Disease Prediction Models
 
-This repository contains the implementation and analysis for the MSc research project **"Fairness in Cardiovascular Disease Prediction Models"**. The study focuses on evaluating bias, explainability, and predictive performance in machine learning models used for cardiovascular disease (CVD) prediction. The project compares **Logistic Regression**, **Random Forest**, and **XGBoost** models using fairness-aware evaluation metrics and **SHAP**-based interpretability methods.
+This repository contains the implementation and analysis for the MSc research project **"Fairness in Cardiovascular Disease Prediction Models"**. The study focuses on evaluating bias, explainability, and predictive performance in machine learning models used for cardiovascular disease (CVD) prediction. The project compares **Logistic Regression**, **Random Forest**, **XGBoost** and **MLP Neural Network** models using fairness-aware evaluation metrics and **SHAP**-based interpretability methods.
 
 ---
 
@@ -26,6 +26,7 @@ The analysis follows a structured, empirical workflow:
    - Logistic Regression  
    - Random Forest  
    - XGBoost
+   - MLP Neural Network
 3. **Evaluation**
    - Accuracy, Precision, Recall, F1-score
 4. **Fairness Analysis**
